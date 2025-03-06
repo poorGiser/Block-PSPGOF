@@ -1,0 +1,7 @@
+setup.py
+/home/chenyi/gaussian-opacity-fields-main/gaussian-opacity-fields-main/ChamferDistancePytorch/chamfer5D/chamfer5D.cu
+/home/chenyi/gaussian-opacity-fields-main/gaussian-opacity-fields-main/ChamferDistancePytorch/chamfer5D/chamfer_cuda.cpp
+chamfer_5D.egg-info/PKG-INFO
+chamfer_5D.egg-info/SOURCES.txt
+chamfer_5D.egg-info/dependency_links.txt
+chamfer_5D.egg-info/top_level.txt
